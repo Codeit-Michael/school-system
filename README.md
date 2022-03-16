@@ -1,20 +1,9 @@
 School System App
 
-`Students` and `Professors` info will be tracked such as *name, age, birthdate 
-and phone number* will be tracked. It is for their identification incase we need it.
+**School System App** is an app where we aim to keep track on `Students` and `Professors` with their basic info such as *name, age, birthdate and phone number*. It is for their identification incase we need it.
 
-Each `Student` can enroll in only one `Course` at a time. `Students` enrolling 
-for the course should show their *proof of payment* to be confirmed enrolled on 
-the course. Every `Course` has uncustomizable line-up of `Subjects` and also has
- 1 `Professor` for each.
+A `Professor` can teach multiple `Subjects` but a `Subject` can have only 1 `Professor`. We are tracking how much they make each year through teaching. If a `Professor` teaches more tahn 4 `Subjects` in a semester, then they are granted of 1-time bonus of P10,000.
 
-Every `Student` will take every `Subject` *related* on their `Course`. If a 
-`Student` is *under probation* in a subject, he/she will retake that `Subject` 
-which is added on the line-up of his/her `Subjects`.
+Each `Student` will get a school ID no. and can enroll in only one `Course` at a time, given line-up of susbjects depends on their *year* and `Course`. `Students` can be also *local* or *international* and also can pick their learning process either *modular* or *walk-in* learning phase. 
 
-
-
-
-Student will be finally given access to official site of 
-his/her Course class where requirements in each subject will be posted. 
-`Students' can also attach files of their works in each task per subject. 
+Every `Student` will take every `Subject` *related* on their `Course`. Each `Course` has uncustomizable line-up of `Subjects`. If a `Student` is *under probation* in a subject, he/she will retake that `Subject` which is added on the line-up of his/her `Subjects`. For every `Course`, number of `Students` enrolled on the said `Course` will be tracked.
